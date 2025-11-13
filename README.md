@@ -1,4 +1,17 @@
 # 정선우 자기소개서
 ***
-본명 : 정선우<br>나이 : 2002년생<br> <span style="color:rgb(10, 86, 156)">Dankook univ C.E</span> <br>Tel. 010 2505 4837<br>E-mail : ppwersun772@gmail.com<br>Github adress : https://github.com/sunwoo1219<br>
-***
+본명 : 정선우<br>나이 : 2002년생 🐴<br> <span style="color:blue">Dankook univ C.E</span> ⭐⭐ <br>Tel. 010 2505 4837<br>E-mail : ppwersun772@gmail.com<br>Github adress : https://github.com/sunwoo1219<br>
+
+
+
+
+
+
+
+#### 자기소개
+
+안녕하세요. 단국대학교 컴퓨터 공학과 2학년에 재학중인 2002년생 정선우라고 합니다. <br> 게임을 정말정말 좋아해서 자연스레 컴퓨터에 관심이 생겼고, 하드웨어적인 부분을 먼저 공부하다가 <br>소프트웨어적인 부분 또한 궁금하여 컴공과에 들어오게 되었습니다. 예상과 달리 적성에 맞는듯 안맞는듯<br>미묘하지만 열심히 공부하는중입니다.
+
+#### 학습목표
+
+[ ] 소프트웨어 공학 강의 A학점 받기<br>[ ] 자바 프로그래밍 실습<br>[ ] LOL 모의 밴픽 시뮬레이터 프로그래밍
